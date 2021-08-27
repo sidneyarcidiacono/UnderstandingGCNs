@@ -2,7 +2,7 @@
 
 By Sidney Arcidiacono
 
-*A companion to the AICamp Webinar: "Understanding Graph Convolutional Networks" given by Sidney Arcidiacono, September 7th, 2021*
+*A companion to the [AICamp Webinar: "Understanding Graph Convolutional Networks"](https://www.aicamp.ai/event/eventdetails/W2021090710) given by Sidney Arcidiacono, September 7th, 2021*
 
 ### Abstract
 
