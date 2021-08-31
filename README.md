@@ -29,3 +29,18 @@ Graph Neural Networks have become a hotter and hotter topic in recent years. Sin
 ### Citations
 
 *Include proper citations for data as well as supporting information from the webinar.*
+
+
+#### Research Citations
+
+#### Code Walkthrough Citations
+
+@article{Zitnik2017,
+  title={Predicting multicellular function through multi-layer tissue networks},
+  author={Zitnik, Marinka and Leskovec, Jure},
+  journal={Bioinformatics},
+  volume={33},
+  number={14},
+  pages={190-198},
+  year={2017}
+}
