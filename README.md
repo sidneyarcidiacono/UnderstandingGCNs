@@ -15,32 +15,25 @@ Graph Neural Networks have become a hotter and hotter topic in recent years. Sin
 
 ### Data
 
-*Add a brief explanation of the dataset we're using, as well as its source and link any relevant papers*.
-
-*Provide links here to the data*.
+[PROTEINS benchmark dataset](https://ls11-www.cs.tu-dortmund.de/staff/morris/graphkerneldatasets)
 
 
 ### How to Use the Notebooks
 
-*Write instructions here for working with the code based on the environment you choose to use (Colab or just Jupyter?)*.
+```zsh
+git clone https://github.com/sidneyarcidiacono/UnderstandingGCNs
+```
 
-*Include fully filled out notebook and notebook with TODOs for following along*.
+1. You can open the [notebook](https://github.com/sidneyarcidiacono/UnderstandingGCNs/blob/main/PROTEINS_Embedding.ipynb) in Jupyter Notebook
+2. You can open a new Colab document and select "From Jupyter Notebook" in the dropdown
 
 ### Citations
 
-*Include proper citations for data as well as supporting information from the webinar.*
-
-
-#### Research Citations
-
-#### Code Walkthrough Citations
-
-@article{Zitnik2017,
-  title={Predicting multicellular function through multi-layer tissue networks},
-  author={Zitnik, Marinka and Leskovec, Jure},
-  journal={Bioinformatics},
-  volume={33},
-  number={14},
-  pages={190-198},
-  year={2017}
-}
+1. https://towardsdatascience.com/an-introduction-to-graph-neural-network-gnn-for-analysing-structured-data-afce79f4cfdc
+2. https://tkipf.github.io/graph-convolutional-networks/
+3. https://towardsdatascience.com/graph-convolutional-networks-deep-99d7fee5706f
+4. https://arxiv.org/pdf/2003.11702.pdf
+5. https://en.wikipedia.org/wiki/Degree_matrix
+6. https://computationalsocialnetworks.springeropen.com/articles/10.1186/s40649-019-0069-y
+7. https://papers.nips.cc/paper/2017/file/f507783927f2ec2737ba40afbd17efb5-Paper.pdf
+8. Predicting Multicellular Function Through Multi-Layer Tissue Networks
